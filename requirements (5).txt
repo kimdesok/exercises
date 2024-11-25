@@ -1,0 +1,15 @@
+scikit-learn
+datasets
+pillow
+pydicom
+tqdm
+datetime
+#opencv-python
+seaborn==0.13.2
+#nvitop
+transformers==4.41.2
+#tensorflow==2.15.1
+#keras==2.15.0
+#tf_keras==2.15
+#memory_profiler
+#scipy
